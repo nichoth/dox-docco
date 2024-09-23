@@ -26,8 +26,8 @@
     "async": "~0.2.9",
     "commander": "~2.1.0",
     "dox": "~0.4.1",
-    "dustjs-linkedin": "~2.5.1",
-    "lodash": "~2.4.1"
+    "dustjs-linkedin": "~3.0.1",
+    "lodash": "~4.17.21"
   },
   "devDependencies": {
     "expect.js": "~0.2.0",
